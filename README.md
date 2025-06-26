@@ -23,7 +23,7 @@ The goal of this project is to bypass Android’s one-to-one Bluetooth A2DP limi
 ## 🛠️ Tech Stack
 
 - **Platform:** Android (Stock)
-- **Language:** Kotlin / Java
+- **Language:** Kotlin
 - **Audio APIs:** `AudioTrack`, `AudioRecord`
 - **Bluetooth APIs:** `BluetoothAdapter`, `BluetoothA2dp`, `BluetoothDevice`
 - **Tools:** Android Studio, Logcat, Coroutines/Threads
